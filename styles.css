@@ -39,4 +39,5 @@ html, body {
     background-color: white;
     margin-bottom: 10px;
     list-style-type: none;
+    border-radius: 10px;
 }
